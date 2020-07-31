@@ -23,6 +23,6 @@ public class Circle {
     }
 
     public void length(){
-        System.out.prinln(3.14 * diameter);
+        System.out.println(3.14 * diameter);
     }
 }
